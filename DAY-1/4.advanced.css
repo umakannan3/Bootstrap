@@ -1,0 +1,44 @@
+/* body{
+    background-color: aqua; */
+/* } */
+.height{
+    height:400px !important; width:500px !important;
+}
+.mar{
+    margin:50px 100px !important;
+}
+.but{
+    background: transparent;
+    border-color: black;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+
+}
+.but1{
+    background-color: blueviolet;
+    /* padding: 5px; */
+}
+.bor1{
+    background-color: 	#ffffff;
+    color:	black
+}
+.posi{
+    position: absolute;
+    bottom:-550px;
+    /* right:50px; */
+}
+.pad{
+    padding: 100px;
+}
+.hei{
+    height:200px;
+    border-radius: 30px;
+}
+.hat{
+    color: blueviolet;
+    font-family: Bree Serif;
+}
+.para1{
+    font-family: Roboto;
+}

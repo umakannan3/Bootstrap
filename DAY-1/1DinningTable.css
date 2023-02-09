@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Roboto&display=swap');
+.border{
+    background-color:#f6c56e;
+    
+}
+h5{
+    font-family:Bree Serif !important;
+}
+.font{ 
+    font-family: Roboto !important;
+}
+.but{
+    background-color:#ffffff;
+    color: black;
+    font-family: Roboto !important;
+}

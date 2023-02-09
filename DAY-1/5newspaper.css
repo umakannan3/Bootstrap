@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.bg{
+    background-color:#ffffff;
+
+}
+.but{
+    background-color: #323f4b;
+    color:#ffffff;
+    font-family: Roboto;
+
+}
+h5{
+    color:#323f4b;
+    font-family: Roboto;
+
+}
+p{
+    color:#7b8794;
+    font-family: Roboto;
+}

@@ -1,0 +1,13 @@
+.bg{
+
+     background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png);
+     height: 700px; width: 50%;
+     background-size: contain;
+     background-repeat: no-repeat;
+
+    /* background-color: aqua; */
+}
+.bg1{
+    background-color: #000000e6;
+    color:#ffffff;
+}
